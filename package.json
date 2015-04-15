@@ -1,0 +1,29 @@
+{
+  "name": "Example-Travis-CI",
+  "version": "1.0.0",
+  "description": "Example of Travis CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hongru/Example-Travis-CI.git"
+  },
+  "keywords": [
+    "example",
+    "travis-ci"
+  ],
+  "author": "cenan.chr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hongru/Example-Travis-CI/issues"
+  },
+  "homepage": "https://github.com/hongru/Example-Travis-CI",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "mocha": "~2.2.4"
+  }
+}
