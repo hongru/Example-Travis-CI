@@ -1,2 +1,2 @@
-#  Example of Travis
+# Example of Travis
 test
